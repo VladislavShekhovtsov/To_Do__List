@@ -119,17 +119,6 @@ body {
     cursor: grab;
 }
 
-/* .note-button {
-    background-color: rgba(230,235,255,0.54) ;
-     color: #5578FF;
-     border: 1px solid  #5578FF;
-    margin-left: 10px;
-    width: 100px;
-    padding: 5px;
-}
-.note-button:hover {
-    cursor: pointer;
-} */
  button.slide-button {
   background: none;
   border: 2px solid;
@@ -158,7 +147,7 @@ button.slide-button:focus {
 
 .done {
     color: #28a745 ;
-  background-color: #d4f7d0; /* светло-зеленый */
+  background-color: #d4f7d0;
   border-left: 4px solid #28a745;
 }
 .done button {
